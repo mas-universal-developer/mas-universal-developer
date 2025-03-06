@@ -1,39 +1,65 @@
-# 🚀 Max | Developer, Designer & Instructor
+<h1 align="center">Hi 👋, I'm Muhammad Asaad Shaikh</h1>
+<h3 align="center">🚀 Passionate "Programmer" & "AI Enthusiast" | Exploring new technologies, learning new skills, and creating exciting projects. 💡✨</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&width=435&lines=Full+Stack+Developer;3D+Animator;Flutter+UI+Kit+Designer;AI+Engineering+Learner)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mas-universal-developer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max&show_icons=true&theme=radical)
+---
 
-## 🌟 About Me
-- 🎨 Passionate about **3D modeling & animation**
-- 💻 Full-stack web & app developer
-- 🚀 AI engineering enthusiast
-- 🎓 Instructor at **THF-RIET RAAS Institute of Emerging Technologies**
-- 🛒 Founder of [Creative Fusion Store](https://creativefusionstore.tech)
-- ✍️ Blogger at [CFS Insights](https://CFSInsights.com)
+## 🔥 About Me
+- 🌱 Currently learning **Flutter, C**
+- 👨‍💻 All my projects are available at **[GitHub](https://github.com/mas-universal-developer)**
+- 📝 I write articles on **[Medium](https://medium.com/@creativefusionstore)**
+- 💬 Ask me about **Web Dev, App Dev, Game Dev, Computer Vision, AI**
+- 📫 Reach me at **m.asaadshaikhofficial@gmail.com**
+- 📄 Check my portfolio **[Here](https://muhammad-asaad-shaikh-portfolio.netlify.app/)**
+- ⚡ Fun fact: **I Love Researching!**
 
-## 📌 Skills & Tools
-### 🔥 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+---
 
-### 🎨 Design & Animation
-![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://codepen.io/code_with_max" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/muhammad-asaad-shaikh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/itsmas.official" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://medium.com/@codewithmax" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/codewithmax" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/codewithmax" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
 
-### 🛠 Tools & Platforms
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+---
 
-## 📈 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com/?user=max&theme=radical)
+## 🛠 Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
+</p>
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/max)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=max&color=blue)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mas-universal-developer&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-✨ _"Keep Coding, Keep Innovating!"_ ✨
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mas-universal-developer&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## ☕ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/code_with_max">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
